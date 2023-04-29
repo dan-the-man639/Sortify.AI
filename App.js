@@ -95,7 +95,7 @@ export default function App() {
     const buffer = new Uint8Array
     (width * height * 3);
     let offset = 0; // offset into original data
-    for (let i = 0; i < buffer.length; i += 3) {
+    for (let i = 0; i < buffer.length; i+=3 ) {
       buffer[i] = data[offset];
       buffer[i + 1] = data[offset + 1];
       buffer[i + 2] = data[offset + 2];
@@ -189,6 +189,4 @@ const styles = StyleSheet.create({
     color: 'white',
   },
 });
-
-
 
