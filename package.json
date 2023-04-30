@@ -30,7 +30,8 @@
     "react-native-fs": "^2.16.6",
     "react-native-svg": "^12.1.0",
     "react-native-vector-icons": "^9.2.0",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "react-redux": "^8.0.5"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
