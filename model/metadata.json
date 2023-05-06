@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.4.5","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2023-04-29T19:48:40.395Z","userMetadata":{},"modelName":"Deer Hacks Model","labels":["Compost - Green Bin","Recyclable - Blue Bin","Garbage - Black Bin"],"imageSize":224}
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.5","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2023-04-30T13:13:46.131Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["Compost","Recylable","Garbage"],"imageSize":224}
